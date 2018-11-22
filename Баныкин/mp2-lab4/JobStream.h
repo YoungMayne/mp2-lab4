@@ -8,6 +8,7 @@
 #define DRAND (rand() / RAND_MAX)
 #define print(expression1, expression2) (std::cout << expression1 << expression2 << std::endl)
 
+//
 class JobStream {
 	class Task {
 		double limit;
