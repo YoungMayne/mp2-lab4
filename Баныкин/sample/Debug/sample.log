@@ -1,5 +1,5 @@
 ﻿  main.cpp
 e:\projects\mp2-lab4\баныкин\mp2-lab4\jobstream.h(7): warning C4005: 'RAND_MAX': macro redefinition
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(343): note: see previous definition of 'RAND_MAX'
-e:\projects\mp2-lab4\баныкин\mp2-lab4\jobstream.h(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\projects\mp2-lab4\баныкин\mp2-lab4\jobstream.h(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   sample.vcxproj -> E:\Projects\mp2-lab4\Баныкин\mp2-lab4\Debug\sample.exe
