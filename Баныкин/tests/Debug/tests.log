@@ -1,7 +1,2 @@
-﻿  Skipping... (no relevant changes detected)
-  pch.cpp
-  test_queue.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  test.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (gtest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   tests.vcxproj -> E:\Projects\mp2-lab4\Баныкин\mp2-lab4\Debug\tests.exe
